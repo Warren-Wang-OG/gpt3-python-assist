@@ -1,0 +1,5 @@
+# rename to .env, fill in your own info:
+GPT3_OPENAI_API_KEY=
+PROMPT_FILENAME=
+PYTHON_BIN=
+SCRIPT_FILEPATH=
